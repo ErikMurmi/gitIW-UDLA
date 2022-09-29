@@ -1,27 +1,19 @@
-body{
-    background-color:#30ca3a;
-    color:#fff
-}
-
 header{
-    height: 118px;
-    border: 1px solid red;
-}
-
-.logo{
-    margin: 0 0 2px 20px;
+    background-color: rgb(34, 0, 255);
+    height: 33.33vh;
 }
 
 main{
-    height:600px;
-    border:1px solid rgb(216, 213, 19)
+    background-color: yellow;
+    height: 33.33vh;
 }
 
 footer{
-    height:600px;
-    border:1px solid rgb(33, 216, 207)
+    background-color: red;
+    height: 33.33vh;
 }
 
-.logo img{
-
+*{
+    margin:0;
+    padding:0;
 }
